@@ -3,5 +3,8 @@ from django.shortcuts import render
 
 # Create your views here.
 
-def index(request):                                 #Defining a function index which takes request as argument
+def index(request):                                 #Defining a function index which takes request as an argument
     return HttpResponse("Hello, world!")            #Returning a HttpResponse with "Hello, world!" as content
+
+def perseus(request):
+    return HttpResponse("Hello, Perseus!")
