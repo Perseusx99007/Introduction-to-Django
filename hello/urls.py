@@ -8,5 +8,6 @@ from . import views                             #Importing views from the curren
 
 urlpatterns = [
     path("", views.index, name='index'),
-    path("perseus", views.perseus, name='perseus')
+    path("perseus", views.perseus, name='perseus'),
+    path("lucifer", views.lucifer, name='lucifer'),
 ]

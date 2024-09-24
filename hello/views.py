@@ -8,3 +8,6 @@ def index(request):                                 #Defining a function index w
 
 def perseus(request):
     return HttpResponse("Hello, Perseus!")
+
+def lucifer(request):
+    return HttpResponse("Hello, Lucifer!")
