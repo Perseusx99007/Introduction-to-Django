@@ -6,11 +6,11 @@ from django.shortcuts import render
 def index(request):                                 #Defining a function index which takes request as an argument
     return HttpResponse("Hello, world!")            #Returning a HttpResponse with "Hello, world!" as content
 
-def perseus(request):
-    return HttpResponse("Hello, Perseus!")
+def rahul(request):
+    return HttpResponse("Hello, Rahul!")
 
-def lucifer(request):
-    return HttpResponse("Hello, Lucifer!")
+def shyam(request):
+    return HttpResponse("Hello, Shyam!")
 
-def orion(request):
-    return HttpResponse("Hello, Orion!")
+def suraj(request):
+    return HttpResponse("Hello, Suraj!")
