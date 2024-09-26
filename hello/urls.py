@@ -10,4 +10,5 @@ urlpatterns = [
     path("", views.index, name='index'),
     path("perseus", views.perseus, name='perseus'),
     path("lucifer", views.lucifer, name='lucifer'),
+    path("orion", views.orion, name='orion'),
 ]

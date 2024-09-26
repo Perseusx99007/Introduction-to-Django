@@ -11,3 +11,6 @@ def perseus(request):
 
 def lucifer(request):
     return HttpResponse("Hello, Lucifer!")
+
+def orion(request):
+    return HttpResponse("Hello, Orion!")
