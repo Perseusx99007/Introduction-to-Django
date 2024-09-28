@@ -11,4 +11,5 @@ urlpatterns = [
     path("rahul", views.rahul, name='rahul'),
     path("shyam", views.shyam, name='shyam'),
     path("suraj", views.suraj, name='suraj'),
+    path("rishi", views.rishi, name='rishi'),
 ]
