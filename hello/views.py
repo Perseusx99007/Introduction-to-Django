@@ -17,3 +17,6 @@ def suraj(request):
 
 def rishi(request):
     return HttpResponse("Hello Rishi")
+
+def kartik(request):
+    return HttpResponse("Hello, Kartik!")
