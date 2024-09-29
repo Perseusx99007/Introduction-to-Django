@@ -20,3 +20,6 @@ def rishi(request):
 
 def kartik(request):
     return HttpResponse("Hello, Kartik!")
+
+def aryan(request):
+    return HttpResponse("Hello, Aryan!")
