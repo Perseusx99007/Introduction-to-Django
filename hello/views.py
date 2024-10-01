@@ -23,3 +23,6 @@ def kartik(request):
 
 def aryan(request):
     return HttpResponse("Hello, Aryan!")
+
+def raghu(request):
+    return HttpResponse("Hello, Raghu!")
