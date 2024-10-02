@@ -26,3 +26,6 @@ def aryan(request):
 
 def raghu(request):
     return HttpResponse("Hello, Raghu!")
+
+def rohan(request):
+    return HttpResponse("Hello, Rohan!")
