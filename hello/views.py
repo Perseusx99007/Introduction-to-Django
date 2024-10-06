@@ -38,3 +38,6 @@ def ramesh(request):
 
 def rajesh(request):
     return HttpResponse("Hello, Rajesh")
+
+def ravi(request):
+    return HttpResponse("Hello, Ravi!")
