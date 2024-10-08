@@ -44,3 +44,6 @@ def ravi(request):
 
 def rohit(request):
     return HttpResponse("Hello, Rohit!")
+
+def sumit(request):
+    return HttpResponse("Hello, Sumit!")
