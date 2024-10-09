@@ -47,3 +47,6 @@ def rohit(request):
 
 def sumit(request):
     return HttpResponse("Hello, Sumit!")
+
+def sarthak(request):
+    return HttpResponse("Hello, Sarthak!")
