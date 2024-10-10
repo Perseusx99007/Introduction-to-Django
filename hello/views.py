@@ -50,3 +50,6 @@ def sumit(request):
 
 def sarthak(request):
     return HttpResponse("Hello, Sarthak!")
+
+def amit(request):
+    return HttpResponse("Hello, Amit!")
