@@ -53,3 +53,6 @@ def sarthak(request):
 
 def amit(request):
     return HttpResponse("Hello, Amit!")
+
+def akshay(request):
+    return HttpResponse("Hello, Akshay!")
