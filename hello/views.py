@@ -56,3 +56,6 @@ def amit(request):
 
 def akshay(request):
     return HttpResponse("Hello, Akshay!")
+
+def aniket(request):
+    return HttpResponse("Hello, Aniket!")
