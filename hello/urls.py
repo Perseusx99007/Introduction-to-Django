@@ -26,4 +26,5 @@ urlpatterns = [
     path("amit", views.amit, name='amit'),
     path("akshay", views.akshay, name='akshay'),
     path("aniket", views.aniket, name='aniket'),
+    path("abhay", views.abhay, name='abhay'),
 ]
