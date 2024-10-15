@@ -65,3 +65,6 @@ def abhay(request):
 
 def anil(request):
     return HttpResponse("Hello, Anil!")
+
+def abhay(request):
+    return HttpResponse("Hello, Abhay!")

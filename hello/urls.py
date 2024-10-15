@@ -28,4 +28,5 @@ urlpatterns = [
     path("aniket", views.aniket, name='aniket'),
     path("abhay", views.abhay, name='abhay'),
     path("anil", views.anil, name='anil'),
+    path("abhay", views.abhay, name='abhay'),
 ]
