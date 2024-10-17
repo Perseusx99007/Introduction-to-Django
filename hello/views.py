@@ -71,3 +71,6 @@ def abhay(request):
 
 def vivek(request):
     return HttpResponse("Hello, Vivek!")
+
+def vikram(request):
+    return HttpResponse("Hello, Vikram!")
