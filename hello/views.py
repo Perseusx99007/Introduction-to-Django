@@ -80,3 +80,6 @@ def aditya(request):
 
 def ankit(request):
     return HttpResponse("Hello, Ankit!")
+
+def anuj(request):
+    return HttpResponse("Hello, Anuj!")
