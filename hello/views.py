@@ -83,3 +83,6 @@ def ankit(request):
 
 def anuj(request):
     return HttpResponse("Hello, Anuj!")
+
+def anmol(request):
+    return HttpResponse("Hello, Anmol!")
