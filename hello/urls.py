@@ -35,4 +35,5 @@ urlpatterns = [
     path("ankit", views.ankit, name='ankit'),
     path("anuj", views.anuj, name='anuj'),
     path("anmol", views.anmol, name='anmol'),
+    path("ajay", views.ajay, name='ajay'),
 ]

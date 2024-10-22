@@ -86,3 +86,6 @@ def anuj(request):
 
 def anmol(request):
     return HttpResponse("Hello, Anmol!")
+
+def ajay(request):
+    return HttpResponse("Hello, Ajay!")
