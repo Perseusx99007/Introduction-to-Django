@@ -89,3 +89,9 @@ def anmol(request):
 
 def ajay(request):
     return HttpResponse("Hello, Ajay!")
+
+def anand(request):
+    return HttpResponse("Hello, Anand!")
+
+def anirudh(request):
+    return HttpResponse("Hello, Anirudh!")

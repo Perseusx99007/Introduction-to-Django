@@ -37,4 +37,5 @@ urlpatterns = [
     path("anmol", views.anmol, name='anmol'),
     path("ajay", views.ajay, name='ajay'),
     path("anand", views.anand, name='anand'),
+    path("anirudh", views.anirudh, name='anirudh'),
 ]
