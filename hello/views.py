@@ -95,3 +95,6 @@ def anand(request):
 
 def anirudh(request):
     return HttpResponse("Hello, Anirudh!")
+
+def arjun(request):
+    return HttpResponse("Hello, Arjun!")
