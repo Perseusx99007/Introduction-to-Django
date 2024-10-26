@@ -39,4 +39,5 @@ urlpatterns = [
     path("anand", views.anand, name='anand'),
     path("anirudh", views.anirudh, name='anirudh'),
     path("arjun", views.arjun, name='arjun'),
+    path("arun", views.arun, name='arun'),
 ]
