@@ -102,3 +102,6 @@ def arjun(request):
 
 def arun(request):
     return HttpResponse("Hello, Arun!")
+
+def ashish(request):
+    return HttpResponse("Hello, Ashish!")
