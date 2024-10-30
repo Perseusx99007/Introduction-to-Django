@@ -111,3 +111,6 @@ def ashok(request):
 
 def vineet(request):
     return HttpResponse("Hello, Vineet!")
+
+def vishal(request):
+    return HttpResponse("Hello, Vishal!")
