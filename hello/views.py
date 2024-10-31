@@ -114,3 +114,6 @@ def vineet(request):
 
 def vishal(request):
     return HttpResponse("Hello, Vishal!")
+
+def vishnu(request):
+    return HttpResponse("Hello, Vishnu!")
