@@ -123,3 +123,9 @@ def vinod(request):
 
 def arvind(request):
     return HttpResponse("Hello, Arvind!")
+
+def ram(request):
+    return HttpResponse("Hello, Ram!")
+
+def shyam(request):
+    return HttpResponse("Hello, Shyam!")
