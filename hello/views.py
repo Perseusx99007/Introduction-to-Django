@@ -129,3 +129,7 @@ def ram(request):
 
 def shyam(request):
     return HttpResponse("Hello, Shyam!")
+
+def alok(request):
+    return HttpResponse("Hello, Alok!")
+
