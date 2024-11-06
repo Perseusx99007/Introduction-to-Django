@@ -50,4 +50,5 @@ urlpatterns = [
     path("ram", views.ram, name='ram'),
     path("shyam", views.shyam, name='shyam'),
     path("alok", views.alok, name='alok'),
+    path( "shubham", views.shubham, name='shubham'),
 ]
