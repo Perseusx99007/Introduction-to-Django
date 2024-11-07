@@ -135,3 +135,6 @@ def alok(request):
 
 def shubham(request):
     return HttpResponse("Hello, Shubham!")
+
+def shivam(request):
+    return HttpResponse("Hello, Shivam!")
