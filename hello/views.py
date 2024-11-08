@@ -138,3 +138,6 @@ def shubham(request):
 
 def shivam(request):
     return HttpResponse("Hello, Shivam!")
+
+def shiv(request):
+    return HttpResponse("Hello, Shiv!")
