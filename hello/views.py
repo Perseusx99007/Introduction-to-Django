@@ -145,3 +145,6 @@ def shiv(request):
 def shubh(request):
     return HttpResponse("Hello, Shubh!")
 
+def shubhanshu(request):
+    return HttpResponse("Hello, Shubhanshu!")
+
