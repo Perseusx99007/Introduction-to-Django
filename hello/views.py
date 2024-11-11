@@ -148,3 +148,6 @@ def shubh(request):
 def shubhanshu(request):
     return HttpResponse("Hello, Shubhanshu!")
 
+def shubhendu(request):
+    return HttpResponse("Hello, Shubhendu!")
+
