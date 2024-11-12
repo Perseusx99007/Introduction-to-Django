@@ -151,3 +151,6 @@ def shubhanshu(request):
 def shubhendu(request):
     return HttpResponse("Hello, Shubhendu!")
 
+def aniket(request):
+    return HttpResponse("Hello, Aniket!")
+
