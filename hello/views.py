@@ -157,3 +157,6 @@ def aniket(request):
 def anirudh(request):
     return HttpResponse("Hello, Anirudh!")
 
+def anmol(request):
+    return HttpResponse("Hello, Anmol!")
+
