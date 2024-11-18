@@ -166,4 +166,8 @@ def ankit(request):
 def anuj(request):
      return HttpResponse("Hello, Anuj!")
 
+def anil(request):
+     return HttpResponse("Hello, Anil!")
+
+    
 
