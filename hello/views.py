@@ -172,6 +172,7 @@ def anil(request):
 def anand(request):
      return HttpResponse("Hello, Anand!")
 
-
+def virat(request):
+     return HttpResponse("Hello, Virat!")
 
 
