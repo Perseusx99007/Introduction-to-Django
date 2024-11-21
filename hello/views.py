@@ -175,4 +175,7 @@ def anand(request):
 def virat(request):
      return HttpResponse("Hello, Virat!")
 
+def ratan(request):
+    return HttpResponse("Hello, Ratan!")
+
 
