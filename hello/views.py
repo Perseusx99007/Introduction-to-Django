@@ -178,4 +178,6 @@ def virat(request):
 def ratan(request):
     return HttpResponse("Hello, Ratan!")
 
+def rabindra(request):
+    return HttpResponse("Hello, Rabindra!")
 
