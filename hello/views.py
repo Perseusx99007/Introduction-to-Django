@@ -181,3 +181,7 @@ def ratan(request):
 def rabindra(request):
     return HttpResponse("Hello, Rabindra!")
 
+def rakesh(request):
+     return HttpResponse("Hello, Rakesh!")
+
+

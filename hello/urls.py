@@ -66,4 +66,5 @@ urlpatterns = [
     path("virat", views.virat, name='virat'),
     path("ratan", views.ratan, name='ratan'),
     path("rabindra", views.rabindra, name='rabindra'),
+    path("rakesh", views.rakesh, name='rakesh'),
 ]
